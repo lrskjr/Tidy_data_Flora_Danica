@@ -1,0 +1,21 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: Tidy data i regneark. Flora Danica
+  description: En workshop om tidy data i Excel for humaniorastuderende, med udgangspunkt i Flora Danica.
+  license: CC-BY-4.0
+  toc:
+    - file: index.md
+    - title: Blok 1
+      children:
+        - file: 00-introduktion.md
+        - file: 01-typiske-fejl.md
+        - file: 02-formater-data.md
+    - title: Blok 2
+      children:
+        - file: 03-datoer-og-ophav.md
+        - file: 04-kvalitetskontrol.md
+        - file: 05-eksport-af-data.md
+site:
+  template: book-theme
+  title: Tidy data i regneark. Flora Danica
