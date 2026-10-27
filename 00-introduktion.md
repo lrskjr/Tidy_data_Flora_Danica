@@ -9,7 +9,7 @@ Blok 1. 8 minutter.
 
 ## Åbn filen
 
-Åbn en kopi af [ovelse_flora_danica.xlsx](data/ovelse_flora_danica.xlsx). Originalen *Index_FloraDanica.xlsx* lader I ligge.
+Åbn en kopi af [ovelse_flora_danica.xlsx](data/ovelse_flora_danica.xlsx).
 
 En datatabel kan være sat op, så et menneske kan læse den ned over siden. En maskine læser række for række og celle for celle. Den gætter ikke på, at et linjeskift betyder en ny person, eller at en skråstreg betyder et nyt navn. Forskellen på det et menneske læser, og det en maskine læser, er det som Wickham (2014) kalder tidy data. De tre regler kommer I til i [Formatér data](02-formater-data.md).
 

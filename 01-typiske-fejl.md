@@ -4,22 +4,22 @@ Blok 1. 15 minutter.
 
 ## Læringsmål
 
-- Find støj i data i *Taxonomisk gruppe* og i *Hæfte*.
+- Find "støj" i data i *Taxonomisk gruppe* og i *Hæfte*.
 - Undgå uhensigtsmæssige måder at formidle data på.
 
 Kig på *Tavler* og *Noter*.
 
-I *Taxonomisk gruppe* på *Tavler* er der for meget støj. På *floradanica_0001.tif* står der:
+I *Taxonomisk gruppe* på *Tavler* er der for meget "støj". I rækken der begynder med *floradanica_0001.tif* står der:
 
 *Digitale Samlinger: Digitale Samlinger: Billeder:Særudgivelser:Flora Danica:Taxonomisk gruppe:Karplanter*
 
 Det interessante stykke data er *Karplanter*. Det står efter det sidste kolon. Resten er en sti, som stammer fra, at Flora Danica tidligere har været formidlet på en anden platform.
 
-Stien er forskellig fra række til række. På *floradanica_0001.tif* står *Digitale Samlinger* to gange. På *floradanica_0472.tif* begynder cellen *Digitale Samlinger: Billeder:* og ender på *Laver*. På *floradanica_0154.tif* stopper cellen ved *Taxonomisk gruppe*. På *floradanica_0655.tif* og *floradanica_2517.tif* står der to grupper i samme celle, sat sammen med +.
+Stien er forskellig fra række til række. Ved *floradanica_0001.tif* står *Digitale Samlinger* to gange. Ved *floradanica_0472.tif* begynder cellen *Digitale Samlinger: Billeder:* og ender på *Laver*. ved *floradanica_0154.tif* stopper cellen ved *Taxonomisk gruppe*. Ved *floradanica_0655.tif* og *floradanica_2517.tif* står der to grupper i samme celle, sat sammen med +.
 
-I *Hæfte* er det interessante det, der står efter *Digitale Samlinger: Billeder:Særudgivelser:Flora Danica:Hæfte:*. På *floradanica_0001.tif* er det *Hft.  1*. På *floradanica_S0001.tif* er det *Suppl. 1*.
+I *Hæfte* er det interessante hvad, der står efter *Digitale Samlinger: Billeder:Særudgivelser:Flora Danica:Hæfte:*. På *floradanica_0001.tif* er det *Hft.  1*. Ved *floradanica_S0001.tif* er det *Suppl. 1*.
 
-På *Noter* står hæftet allerede kort. Noten til *floradanica_0001.tif* begynder *Flora Danica Hft. 1, Tab. 1*.
+Under *Noter* er hæftet egentligt også allerede skrevet. Noten til *floradanica_0001.tif* begynder *Flora Danica Hft. 1, Tab. 1*.
 
 ## Opgave
 
@@ -27,7 +27,7 @@ Arbejdet foregår på *Tavler*. Lad stierne i *Taxonomisk gruppe* og *Hæfte* bl
 
 Skriv overskriften *Gruppenavn* i den første tomme celle til højre for *Hæfte*. Skriv overskriften *Hæfte nr* i cellen ved siden af.
 
-Udfyld de to celler på rækken for hver af disse tavler. I *Gruppenavn* skriver I det, der står efter det sidste kolon. Står der et + i cellen, skriver I begge gruppenavne. I *Hæfte nr* skriver I det, der står efter *Digitale Samlinger: Billeder:Særudgivelser:Flora Danica:Hæfte:*.
+Udfyld de to celler på rækken for hver af de tavler, som står i punktform nedenfor. I *Gruppenavn* skriver I det, der står efter det sidste kolon. Står der et + i cellen, skriver I begge gruppenavne. I *Hæfte nr* skriver I det, der står efter *Digitale Samlinger: Billeder:Særudgivelser:Flora Danica:Hæfte:*.
 
 - *floradanica_0001.tif*
 - *floradanica_0154.tif*
@@ -51,7 +51,7 @@ Udfyld de to celler på rækken for hver af disse tavler. I *Gruppenavn* skriver
 
 ## Brug ikke farver til at formidle data
 
-På arket *Noter* er nogle af titlerne fyldt med gul farve. Farven bliver anvendt til at markere de observationer, hvor en tavle har mere end én figur. Det kan I se, fordi den person, som har gennemset dataene, har været hjælpsom, og med gul farve oplyst os om, at der i denne række er beskrivelser af flere figurer i en celle. Det kan give mening for et menneske, der relativt let kan afkode meningen visuelt, men for et computerprogram, så giver det ingen mening. 
+På arket *Noter* er nogle af titlerne fyldt med gul farve. Farven bliver anvendt til at markere de observationer, hvor en tavle har mere end én figur. Forestil jer at en person har gennemset dataene, været hjælpsom og med gul farve oplyst os om, at der i denne række er beskrivelser af flere figurer i en celle. Det kan give mening for et menneske, fordi mennesker relativt let kan afkode meningen visuelt, men for et computerprogram, så giver det ingen mening. 
 
 ![Arket Noter. Gul farve markerer titler med skråstreg](images/formatering-som-oplysning.jpg)
 

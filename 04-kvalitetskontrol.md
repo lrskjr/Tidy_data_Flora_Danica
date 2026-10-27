@@ -12,7 +12,7 @@ I forrige blok sorterede og filtrerede I for at opdage fejl, der allerede står 
 
 Kildefilen har ingen datavalidering. Det har øvelsesfilen heller ikke, før I selv lægger den på.
 
-De gruppenavne, der faktisk bruges som sidste led, er Karplanter, Svampe, Mosser, Alger, Laver og Slimsvampe. *Ukendt*, den tomme sti og stavemåden *Lave* er afvigelser fra den liste.
+De gruppenavne, der faktisk bruges som sidste led, er Karplanter, Svampe, Mosser, Alger, Laver og Slimsvampe.
 
 ## Øvelse
 
@@ -24,15 +24,15 @@ Skriv overskriften *Gruppe* i celle H1. Markér H2 til H41. Vælg Data, Datavali
 
 Prøv listen på to rækker. På *floradanica_0001.tif* kan I vælge Karplanter. På *floradanica_0472.tif* kan I vælge Laver. Skriv derefter *Lave* i en celle i *Gruppe*. Listen afviser stavemåden, fordi den tilladte værdi er *Laver*.
 
-*floradanica_2517.tif* har både *Alger* og *Lave*. De to navne kan ikke stå i én celle i *Gruppe*, hvis I holder reglen om én værdi pr. celle. Lad rækken være, eller del den senere. Det når I ikke i dag.
-
-[Klik her, og se mere om datavalidering](https://support.microsoft.com/en-us/excel/get-started/apply-data-validation-to-cells).
+*floradanica_2517.tif* har både *Alger* og *Lave*. De to navne kan ikke stå i én celle i *Gruppe*, hvis I holder reglen om én værdi pr. celle. Lad rækken være. Det når I ikke i dag.
 
 Markér titlerne fra H2 og ned. Vælg Hjem, Betinget formatering, Fremhæv celleregler, Lig med. Skriv f.eks. Karplanter, og vælg en farve.
 
 Vælg igen Fremhæv celleregler, Tekst, der indeholder. Skriv f.eks. Mosser, og vælg en anden farve.
 
 Lad kolonne J stå uden for sorteringen.
+
+[Klik her, og se kort vejledning om datavalidering](https://support.microsoft.com/en-us/excel/get-started/apply-data-validation-to-cells).
 
 ## Forslag til resultat
 
