@@ -6,6 +6,7 @@ Blok 2. 11 minutter.
 
 - Forklare, hvorfor en csv-fil er tekst, og en xlsx-fil ikke er det.
 - Gemme arket *Noter* som csv ved siden af øvelsesfilen.
+- Kendskab til metadata om data
 
 ## Hvorfor csv
 
@@ -14,6 +15,10 @@ En csv-fil er en tekstfil, hvor et tegn adskiller kolonnerne. I RFC 4180, https:
 En xlsx-fil er den projektmappe, Excel gemmer. Den kan ikke læses som almindelige linjer i en teksteditor. Til opbevaring og til at at give videre bliver csv-filer ofte foretrukket, fordi de er lettere at åbne igen om mange år.
 
 UTF-8 er en tegnkodning, der kan gemme æ, ø og å. Den er beskrevet i RFC 3629, https://www.rfc-editor.org/rfc/rfc3629. Nyere Excel har filtypen *CSV UTF-8 (kommasepareret)*. Ældre udgaver af Excel har den ikke. De har filtypen *CSV (semikolonsepareret)*, som gemmer bogstaverne i Windows-1252. Ord som *Multebær* og *Særudgivelser* som har et æ kan ofte skabe problemer og blive læst forkert, hvis en fil er gemt i ét format og senere åbnes i et andet, så det er godt, at have styr på sin tegnkodning, når man gemmer en tekstfil.
+
+## Formidling af information om data
+
+Det er en meget stor hjælp for andre, hvis I sammen med jeres data gemmer en fil, hvori I formidler information om jeres data. Det vil sige metadata om jeres data. Sådan en metadata fil bliver ofte kaldt for en readme-fil og er ofte en helt almindelig tekstfil. Metadatafilen indeholder ofte en beskrivelse af projektet og skal hjælpe andre til at kunne håndtere jeres data. Filen indeholder også definitioner af variabelnavnene. Hvis I selv har indsamlet jeres data og selv navngivet variabelnavnene, så synes I sikkert, at variabelnavnene er selvforklarende. Men for de personer, som I deler datasættet med, så er det ikke altid så indlysende. Det vil også ofte være en stor hjælp, hvis I skriver, hvilken tegnkodning I har benyttet.     
 
 ## Øvelse
 

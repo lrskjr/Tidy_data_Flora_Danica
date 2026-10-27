@@ -37,7 +37,14 @@ Titlen på *floradanica_0472.tif* er:
 
 *Lichen ventosus L. / L. ventosus var.? Oed. / L. leprosus etc. Oed. / L. ericetorum Oed.*
 
-Det er fire navne i én celle. *floradanica_0018.tif* har også skråstreg i titlen. I kildefilen har 625 titler en skråstreg. I øvelsen tager I kun tavlen floradanica_0472.tif.
+Det er fire navne i én celle. *floradanica_0018.tif* har også skråstreg i titlen. I kildefilen har 625 titler en skråstreg. I øvelsen tager I kun tavlen floradanica_0472.tif. Grund til at der er fire navne i cellen er, at der på den tavle, som det handler om, er fire forskellige planter. Se billedet nedenfor.
+
+:::{figure} images/floradanica_0472_1803x2778.jpg
+:width: 320px
+:alt: Flora Danica, tavle CCCCLXXII, fire figurer
+
+Flora Danica, tavle 472. Fire figurer på samme tavle.
+:::
 
 
 ## Øvelse

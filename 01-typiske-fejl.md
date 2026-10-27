@@ -47,7 +47,7 @@ Udfyld de to celler på rækken for hver af de tavler, som står i punktform ned
 - *floradanica_2517.tif*: *Alger* og *Lave*. *Hft. 42*
 - *floradanica_S0001.tif*: *Karplanter*. *Suppl. 1*
 
-*Hft.  1* har to mellemrum efter punktummet. *Hft. 10* har ét. Skriv det sidste led, som det står i cellen.
+*Hft.  1* har to mellemrum efter punktummet. *Hft. 10* har ét. Skriv det sidste led, som det står i cellen, men drop endelig det ekstra mellemrum, fordi det er unødvendigt.
 
 ## Brug ikke farver til at formidle data
 
